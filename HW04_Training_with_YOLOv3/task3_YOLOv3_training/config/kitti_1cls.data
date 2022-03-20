@@ -1,0 +1,4 @@
+classes= 1
+train=../kitti/train.txt
+test=../kitti/test.txt
+names=../kitti/classes.names
