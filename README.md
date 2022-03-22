@@ -1,5 +1,5 @@
 # Homework_AutonomousDrivingSoftwareEngineering
-This repository contains my homework code of the lecture ADSE, which I attended during the winter semester 2021/22 in Technical University of Munich.
+This repository contains my homework code of the lecture Autonomous Driving Software Engineering ([MW2472] Softwareentwicklung für autonomes Fahren), which I attended during the winter semester 2021/22 in Technical University of Munich.
 
 In this lectrue, I have learned about the technical framework of autonomous driving, got familiar with the common-used methodologies and algorithms of the stacks.
 Every week after the lecture, the corresponding homework tasks would be released, and we had four weeks to finish each of them.
