@@ -1,0 +1,12 @@
+[flake8]
+ignore = D203,W293,F401
+max-line-length = 120
+
+# Explanation:
+# D203              1 blank line required before class docstring
+# W293              Blank line contains whitespace
+# F401              Module imported but unused
+# max-line-length   Maximal number of characters per line
+
+# Note that the modification of these rules does not change the test results
+# This file is just for your information about the defined code format rules
