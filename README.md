@@ -6,4 +6,4 @@ Every week after the lecture, the corresponding homework tasks would be released
 
 ![image](https://user-images.githubusercontent.com/83095045/159155710-358f6139-f5ec-4160-8129-f2246f73bb70.png)
 
-© Copyright FTM, TUM 2021
+Copyright © FTM, TUM 2021
